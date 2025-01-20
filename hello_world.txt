@@ -1,0 +1,4 @@
+"Hello World" is a simple and widely recognized placeholder text used in programming.
+It serves as an introductory exercise for beginners to familiarize themselves with the syntax and structure of a new programming language.
+By starting with "Hello World", developers can ensure their development environment is set up correctly and that they understand the basic output mechanisms of the language.
+This foundational step helps build confidence and provides a clear, achievable goal for those new to coding.
